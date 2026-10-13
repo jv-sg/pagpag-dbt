@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: pagspags
+    database: analog-fastness-511512-p4
+    schema: pagspags
+    tables:
+      - name: clientes
+      - name: transacoes
+      - name: chargebacks
+      - name: planos
